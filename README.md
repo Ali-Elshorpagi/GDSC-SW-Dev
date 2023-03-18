@@ -1,2 +1,2 @@
 # GDSC-SW-Dev
-GDSC-Zagazig SWDev 
+GDSC-Zagazig SW Dev 
