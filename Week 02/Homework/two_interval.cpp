@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    // positive numbers only
     int a, b, x, y;
     cin >> a >> b >> x >> y;
     if (x > b || a > y)
@@ -11,6 +12,8 @@ int main()
     else
     {
         int start, end;
+        // start = max(a,x);
+        // end  = min(b,y);
         if (a < x)
             start = x;
         else
