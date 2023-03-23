@@ -16,7 +16,7 @@ int main()
         else
             start = a;
 
-        if (b <= y)
+        if (b < y)
             end = b;
         else
             end = y;
