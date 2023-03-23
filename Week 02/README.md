@@ -1,6 +1,6 @@
 # GDSC-SW-Dev
 
-> The Homework Problems
+> **The Homework Problems**
    - Ages in Days
    - Float or Integer
    - The biggest One
@@ -8,4 +8,4 @@
 
 <br><br>
 
-> The Live Problems
+> **The Live Problems**
